@@ -1,4 +1,4 @@
-## Olá!! Meu nome é André, e atualmente sou Estudante de Ciência da Computação
+## Olá!! Atualmente sou estudante de Ciência da Computação no primeiro semestre.
 ##
 <div align="center">
   <a href="https://github.com/RussoAndre">
